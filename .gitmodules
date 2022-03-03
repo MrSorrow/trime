@@ -9,7 +9,7 @@
 	url = https://mirror.ghproxy.com/https://github.com/boostorg/boost.git
 [submodule "app/src/main/jni/librime"]
 	path = app/src/main/jni/librime
-	url = https://mirror.ghproxy.com/https://github.com/rime/librime.git
+	url = https://mirror.ghproxy.com/https://github.com/MrSorrow/librime.git
 	ignore = dirty
 [submodule "app/src/main/jni/libiconv"]
 	path = app/src/main/jni/libiconv
